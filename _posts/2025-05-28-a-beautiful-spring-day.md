@@ -1,7 +1,10 @@
 ---
 title: A beautiful spring day
 layout: post
-date: '2025-05-28 12:57:45'
+date: '2025-05-28 13:36:08'
+categories:
+- jekyll
+- update
 ---
 
-this is first content.
+this is spring content
